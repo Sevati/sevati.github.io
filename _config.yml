@@ -183,11 +183,12 @@ tagcloud: true
 friends:
   Hexo: https://hexo.io
   GitHub: https://pages.github.com/
-  MOxFIVE: http://moxfive.xyz/
+  idejie: http://blog.idejie.com
+  王嘉宁: http://www.imjianing.wang
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 专注于前端
+aboutme: 一只学划水的仙女
 #aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
